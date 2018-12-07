@@ -7,6 +7,15 @@ In this application I built a compatibility-based "FriendFinder" application -- 
 
 Express was used to handle routing.
 
+#### Take a survey and get matched with the love of your life. 
+![Screen shot](app/public/assets/img/image_1.png)
+
+#### Fill out the information and submit. 
+![Screen shot](app/public/assets/img/image_2.png)
+
+#### Once you fill and submit the form an alert will pop-up letting you know who is your love match. 
+![Screen shot](app/public/assets/img/image_3.png)
+
 
 
 ## How to Setup
